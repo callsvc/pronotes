@@ -11,8 +11,16 @@
             "id": "64e2a5b4d58cb27b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Apkfmt/Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              }
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apkfmt/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Apkfmt/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Apkfmt/Todo.md"
+              }
             }
           }
         ]
@@ -135,11 +147,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "64e2a5b4d58cb27b",
+  "active": "db3bca8dab4eef56",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Apkfmt/Untitled.md",
+    "Apkfmt/Todo.md",
+    "Welcome.md",
+    "Apkfmt",
+    "Mizui",
+    "Poly",
+    "Mizui.md",
+    "Poly.md"
   ]
 }
