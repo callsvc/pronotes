@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "221af2bdb4c55923",
+        "id": "53839d7e10155407",
         "type": "tabs",
         "children": [
           {
-            "id": "64e2a5b4d58cb27b",
+            "id": "98906faf9e11ab3d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Apkfmt/Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apkfmt/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apkfmt/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Apkfmt/Todo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,10 +139,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "db3bca8dab4eef56",
+  "active": "98906faf9e11ab3d",
   "lastOpenFiles": [
-    "Apkfmt/Untitled.md",
+    "Mizui/Useful links for the project.md",
+    "Mizui/Prod Keys.md",
+    "Related links.md",
     "Apkfmt/Todo.md",
+    "Apkfmt/Untitled.md",
     "Welcome.md",
     "Apkfmt",
     "Mizui",
