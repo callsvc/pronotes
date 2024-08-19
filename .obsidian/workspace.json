@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "53839d7e10155407",
+        "id": "b382effa061bf2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "98906faf9e11ab3d",
+            "id": "2ebb14a4af3e9c8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Related links.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Related links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Related links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Related links.md"
+              }
             }
           }
         ]
@@ -139,13 +147,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "98906faf9e11ab3d",
+  "active": "2ebb14a4af3e9c8c",
   "lastOpenFiles": [
-    "Mizui/Useful links for the project.md",
-    "Mizui/Prod Keys.md",
+    "Apkfmt/AndroidManifest.md",
     "Related links.md",
     "Apkfmt/Todo.md",
-    "Apkfmt/Untitled.md",
+    "Mizui/Prod Keys.md",
+    "Mizui/Useful links for the project.md",
     "Welcome.md",
     "Apkfmt",
     "Mizui",
