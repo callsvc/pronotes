@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b382effa061bf2cc",
+        "id": "19a60d47ea03ba89",
         "type": "tabs",
         "children": [
           {
-            "id": "2ebb14a4af3e9c8c",
+            "id": "2931fdca57a35593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Related links.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Related links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Related links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Related links.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,13 +139,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ebb14a4af3e9c8c",
+  "active": "2931fdca57a35593",
   "lastOpenFiles": [
-    "Apkfmt/AndroidManifest.md",
-    "Related links.md",
-    "Apkfmt/Todo.md",
-    "Mizui/Prod Keys.md",
+    "Apkfmt/Android Manifest.md",
     "Mizui/Useful links for the project.md",
+    "Mizui/Prod Keys.md",
+    "TurboVk/What.md",
+    "Mpdroid/JVM.md",
+    "Poly/Tasks.md",
+    "Nuclear/What.md",
+    "Related links.md",
+    "Mpdroid",
+    "TurboVk",
+    "Nuclear",
+    "Apkfmt/Todo.md",
     "Welcome.md",
     "Apkfmt",
     "Mizui",

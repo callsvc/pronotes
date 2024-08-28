@@ -1,0 +1,1 @@
+A custom Vulkan library loader for Adreno and Mali
